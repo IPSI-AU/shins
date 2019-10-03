@@ -180,3 +180,6 @@ li > ul {
 .page-wrapper .dark-box {
     width: 30%;
 }
+tr > td:first-child {
+    white-space: nowrap;
+}
